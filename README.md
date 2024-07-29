@@ -1,4 +1,5 @@
-LeetCode 코딩 문제들에 대해, 생성 모델들의 소스 생성 능력 검증을 위한 소스코드 저장소입니다.
+# LLM 기반 코드 생성을 위한 프롬프트 조합 방법
+LeetCode 코딩 문제들에 대해, 생성 모델의 코드 생성 능력 검증을 위한 소스코드 저장소입니다.
 - LeetCode 사이트: https://leetcode.com/
 
 - Environment
@@ -15,8 +16,6 @@ LeetCode 코딩 문제들에 대해, 생성 모델들의 소스 생성 능력 �
 
 
 ## 상세설명
-### 목표: chat GPT가 잘 생성하지 못하는 코드 발견하기
-
 
 ### get_template.py
 -leetcode cli 사용
