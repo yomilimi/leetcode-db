@@ -1,5 +1,5 @@
-# LLM 기반 코드 생성을 위한 프롬프트 조합 방법
-LeetCode 코딩 문제들에 대해, 생성 모델의 코드 생성 능력 검증을 위한 소스코드 저장소입니다.
+# LLM 기반 코드 생성을 위한 프롬프트 조합
+LeetCode 코딩 문제들에 대해, LLM의 코드 생성 능력 검증을 위한 소스코드 저장소입니다.
 - LeetCode 사이트: https://leetcode.com/
 
 - Environment
